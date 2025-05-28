@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola! 👋 Soy Ismael Otamendi Sanchez (ismontana)
 
 <!--
 **ismontana/ismontana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Bienvenido a mi perfil de Github. Aquí podras encontrar mis repositorios y experimentos de desarrollo de software
+- Desarrollador entusiasta de Desarollo de Software
