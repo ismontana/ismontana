@@ -1,8 +1,11 @@
-# 👋 ¡Hola! Soy Ismael Otamendi Sánchez (@ismontana)
+<h1 align="center">👋 ¡Hola! Soy Ismael Otamendi Sanchez (@ismontana)</h1>
 
-**Desarrollador Full Stack | Especialista en JavaScript & React | Creador de soluciones innovadoras**
+<h3 align="center">🚀 Desarrollador Full Stack | Especialista en JavaScript & React</h3>
 
-Bienvenido/a a mi perfil de GitHub, donde transformo ideas en código y soluciones digitales. Me apasiona crear aplicaciones que impacten positivamente en la vida de las personas.
+<p align="center">
+  <b>Creador de soluciones innovadoras</b><br>
+  Transformando ideas en código que impacta vidas
+</p>
 
 ## 🚀 Sobre mí
 
