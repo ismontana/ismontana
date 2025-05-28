@@ -1,11 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy Ismael Otamendi Sanchez (@ismontana)</h1>
+# 👋 ¡Hola! Soy Ismael Otamendi Sanchez (@ismontana)
 
-<h3 align="center">🚀 Desarrollador Full Stack | Especialista en JavaScript & React</h3>
+**Desarrollador Full Stack | Especialista en JavaScript & React | Creador de soluciones innovadoras**
 
-<p align="center">
-  <b>Creador de soluciones innovadoras</b><br>
-  Transformando ideas en código que impacta vidas
-</p>
+Bienvenido/a a mi perfil de GitHub, donde transformo ideas en código y soluciones digitales. Me apasiona crear aplicaciones que impacten positivamente en la vida de las personas.
 
 ## 🚀 Sobre mí
 
@@ -52,6 +49,6 @@ Marketplace completo para vendedores grandes y particulares. Características: c
 
 ¡Hablemos sobre tecnología, colaboraciones u oportunidades!
 
-[![Email](https://img.shields.io/badge/ismotsss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismotsss@gmail.com)
+[![Email](https://img.shields.io/badge/ismaotsss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismotsss@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-otamendi-s%C3%A1nchez-6945782a1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_🚀-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](#) (próximamente)
